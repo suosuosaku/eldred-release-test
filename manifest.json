@@ -20,17 +20,17 @@
       "bytes": 791148
     },
     "light/shell.js": {
-      "sha256": "5c12b86d052350bf9e8a2c89f7f10510d0c6678a6362b28c0bc1ecf38816c999",
+      "sha256": "9dc7a8060f81694f72ac159249bde600d778b07926f17556bdbbf1d29472e664",
       "bytes": 1641147,
-      "cardPart": 4,
-      "minCardPart": 4,
+      "cardPart": 5,
+      "minCardPart": 5,
       "api": 1
     },
     "opening/app.js": {
-      "sha256": "70ba7c4e02d0f033cbc9dc83e25434fbaacca9f1ec3ff2ee12599929da5f1ccb",
+      "sha256": "7e96d1dcab2dd491509415b1617fdc2d81d4efd96d83b377fc7db52a31235038",
       "bytes": 498501,
-      "cardPart": 4,
-      "minCardPart": 4,
+      "cardPart": 5,
+      "minCardPart": 5,
       "api": 1
     }
   }
